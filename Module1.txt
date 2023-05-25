@@ -1,0 +1,36 @@
+1)What is software?
+-->Software is a set of instructions, data or programs used to operate computers and execute specific tasks. It is the opposite of hardware, which describes the physical aspects of a computer. Software is a generic term used to refer to applications, scripts and programs that run on a device. It can be thought of as the variable part of a computer, while hardware is the invariable part.
+
+2)What are the types of Applications?
+-->There are many different types of applications, each designed for a specific purpose. The most common application types are:
+-Desktop application:
+These are software applications that run on your desktop or laptop computer. They are installed locally and typically provide a graphical user interface (GUI) for user interaction.
+
+-Web application:
+A web application is accessed through a web browser and runs on a web server. They are platform independent and designed to be accessed over the Internet. Examples include online shopping websites, social media platforms and email clients.
+
+-Mobile application:
+Mobile applications are specifically designed to run on mobile devices such as smartphones and tablets. These are typically downloaded from app stores and offer a variety of features such as games, social networking, and productivity tools.
+
+-Business application:
+Enterprise applications are large software systems developed specifically to meet the needs of an organization. These often include complex functions such as customer relationship management (CRM), enterprise resource planning (ERP), and supply chain management. Embedded system:
+Embedded applications are specialized software systems embedded in electronic devices such as home appliances, automobiles, medical devices, and industrial machines. They control the functionality of these devices and often work in real time. 
+
+
+3)What is programing?
+-->Programming refers to a technological process for telling a computer which tasks to perform in order to solve problems. You can think of programming as a collaboration between humans and computers, in which humans create instructions for a computer to follow (code) in a language computers can understand. 
+->>Programming enables so many things in our lives. Here are some examples: 
+
+a)When you browse a website to find information, contact a service provider, or make a purchase, programming allows you to interact with the site’s on-page elements, such as sign-up or purchase buttons, contact forms, and drop-down menus.
+b)The programming behind a mobile app can make it possible for you to order food, book a rideshare service, track your fitness, access media, and more with ease. 
+c)Programming helps businesses operate more efficiently through different software for file storage and automation and video conferencing tools to connect people globally, among other things. 
+
+4)What is Python?
+-->Python is an interpreted, object-oriented, high-level programming language with
+dynamic semantics.
+a) Its high-level built in data structures, combined with dynamic typing and dynamic
+binding, make it very attractive for Rapid Application Development.
+b) Python supports modules and packages, which encourages program modularity and
+code reuse.
+c) The Python interpreter and the extensive standard library are available in source or
+binary form without charge for all major platforms, and can be freely distributed.
